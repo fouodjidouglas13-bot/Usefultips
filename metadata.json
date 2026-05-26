@@ -1,0 +1,6 @@
+{
+  "name": "Student Exam Scheduler & Reminders",
+  "description": "An intuitive scheduling and automatic reminders system for examination-bound students to balance study time with hydration, nutrition, sports, sleep, and entertainment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
